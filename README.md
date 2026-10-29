@@ -30,8 +30,6 @@ Run every cell from top to bottom. Check that all outputs and plots are visible 
 ## Evaluation notes
 Recall for the churn class is a key metric because false negatives represent customers who leave without being identified for retention. Precision also matters because the team has limited call capacity. Compare precision, recall, F1 and ROC-AUC on the untouched stratified test set; do not select a model based on accuracy alone.
 
-## Video
-Add your Google Drive (Anyone with the link) or unlisted YouTube recording URL here after recording the 5–10 minute face-and-screen walkthrough.
 
 ## GitHub submission checklist
 - [ ] Run the notebook from top to bottom and save all outputs.
